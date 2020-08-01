@@ -1,0 +1,19 @@
+Work Day Scheduler Pseudocode
+
+* When I opne the planner
+** The current date is displayed @ top
+*** setDate() method
+**** var date = new Date();
+        date.setDate(# representing day of the month);
+            document.getElementById('divName').innerHTML = date;
+
+**** -Or-
+        moment().format("MMM Do YY");  
+
+* When I scroll down
+** Then I am presented w/ timeblocks for normal business hours (9am-5pm)
+*** Bootstrap gird system in HTML 
+
+* When I clisk into a time block
+** Then I can enter an event
+*** 

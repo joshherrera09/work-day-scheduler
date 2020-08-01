@@ -40,6 +40,8 @@ body {
     background-color: #ffffff;
     color: #000000;
     border-top: 1px dashed #000000;
+    text-align: right;
+    padding-top: 10px;
   }
   
   .past {
@@ -68,5 +70,10 @@ body {
   .saveBtn i:hover {
     font-size: 20px;
     transition: all .3s ease-in-out;
+  }
+
+  .far {
+      margin-top: 10px;
+      height: 25px;
   }
   
