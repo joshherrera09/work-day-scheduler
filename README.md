@@ -20,3 +20,6 @@ Weekly Planner
 
 * Template Literal
   * I used a template literal to dynamically create all the rows, with the corresponding hours, text area, and save buttons.
+  
+# Link
+[Work Day Scheduler](https://joshherrera09.github.io/work-day-scheduler/)
