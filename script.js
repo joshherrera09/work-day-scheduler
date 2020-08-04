@@ -1,6 +1,4 @@
-// Copy and//document.addEventListener("DOMContentLoaded", function(){
-//  
-//});
+
 
 // GLOBALS
 var plannerContainer = document.getElementById('planner-container');
